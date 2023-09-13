@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **k8s | Terraform | Jenkins | Azure DevOps | AWS | CI/CD | Ansible**
 
-- 🌱 I’m currently learning **k8s**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ankitpipalia](https://github.com/ankitpipalia)
 
 - 📫 How to reach me **ankit.pipalia009@gmail.com**
